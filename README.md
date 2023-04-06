@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Who am I?:
 Hi,<br><br>I’m a Computer Engineering student in Eskisehir Technical University in 3rd grade. I’m an Unity game developer.<br><br>I have 2 years of Unity and C# experience. I also know Java, Python, HTML, CSS and Javascript.
 
 
