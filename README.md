@@ -1,5 +1,9 @@
-# 💫 Who am I?
-Hi,<br><br>I’m Nuh Yigit Akman.<br><br>I'm a Computer Engineering student in Eskisehir Technical University in 4th grade.<br><br>I’m currently a Unity game developer.<br><br>
+# 💫 Who am I?  
+Hi,<br><br>  
+I’m Nuh Yigit Akman.<br><br>  
+I graduated from **Eskisehir Technical University – Computer Engineering**.<br><br>  
+I’m a **Software Developer** with hands-on experience in **Game Development (Unity), Mobile Applications, and Full Stack Projects**.<br><br>  
+I enjoy building scalable, user-friendly solutions and I’m always eager to learn new technologies, improve my skills, and contribute to impactful projects.<br><br>  
 
 
 # 🌐 Socials:
